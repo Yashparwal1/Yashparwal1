@@ -1,5 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yash
-
+### Hi there <img src="https://user-images.githubusercontent.com/54176283/206912192-aa6379a7-ac8c-4941-9ee7-7a117754a46b.gif" width="29px">, I'm Yash
 Talk to me about
 - CYBERSECURITY & Ethical Hacking
 - **Internal Network** Pentesting
